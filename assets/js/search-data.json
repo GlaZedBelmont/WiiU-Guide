@@ -3,37 +3,37 @@
   "1": {
     "title": "Choose CFW",
     "content": "Choose CFW .",
-    "url": "http://localhost:4000/docs/homebrew/choose-cfw/",
+    "url": "https://vincent-coding.github.io/WiiU-Guide//https://vincent-coding.github.io/WiiU-Guide/docs/homebrew/choose-cfw/",
     "relUrl": "/docs/homebrew/choose-cfw/"
   }
   ,"2": {
     "title": "Choose SD Card",
     "content": "Choose your SD card. . There are different types of SD cards with different capacities. . If you want to be able to install games, you will need at least a 32gb SD card (some games can go up to 20gb). | If you plan to play with mods, you need at least an 8 Gb SD card. | If you only want homebrew applications, without any mods, without installing games, a 4 GB SD card will suffice. | .",
-    "url": "http://localhost:4000/docs/extras/choose-sd-card/",
+    "url": "https://vincent-coding.github.io/WiiU-Guide//https://vincent-coding.github.io/WiiU-Guide/docs/extras/choose-sd-card/",
     "relUrl": "/docs/extras/choose-sd-card/"
   }
   ,"3": {
     "title": "Extras",
     "content": "Extras .",
-    "url": "http://localhost:4000/docs/extras",
+    "url": "https://vincent-coding.github.io/WiiU-Guide//https://vincent-coding.github.io/WiiU-Guide/docs/extras",
     "relUrl": "/docs/extras"
   }
   ,"4": {
     "title": "Home",
     "content": "WiiU Guide . This site has been designed with the sole purpose of enabling less experienced users to hack into their WiiUs. . Introduction Start hacking his WiiU .",
-    "url": "http://localhost:4000/",
+    "url": "https://vincent-coding.github.io/WiiU-Guide//https://vincent-coding.github.io/WiiU-Guide/",
     "relUrl": "/"
   }
   ,"5": {
     "title": "Homebrew",
     "content": "Homebrew Launcher . Please check that your console is in version 5.5.3 or 5.5.4. . Before you can hack your WiiU you need to download all its files and put them on your SD card. . . Homebrew Launcher . Homebrew launcher is the most important application, it allows you to launch all the others. You can download it by clicking here. . Once the archive is downloaded, simply extract the WiiU Folder from the root of the SD Card. . . Payload.elf . Payload.elf is a micro software that allows you to launch the homebrew launcher with the new exploits. You can download it by clicking here. . Once you’ve downloaded the archive, just put it in the wiiu folder at the root of your sd card. . If the file is misplaced, or is non-existent, the exploit will not work. . . Homebrew App Store . In order to be able to test if any function correctly we need an application. . Is there an app more essential than Homebrew App Store? This application allows you to download Homebrew apps directly from your wiiu, without having to take out your SD card. . To download it, please click here. . Normally, in the archive you will need to find a wiiu folder, a json file, a manifest file and two images. . To add the application, simply move the wiiu folder from the archive to the root of the SD card. If you already have the wiiu folder, it should merge. . . Summary . If you’ve had enough of the tutorial, you should have all his files. . sd:// wiiu/ payload.elf | apps/ homebrew_launcher/ homebrew_launcher.elf | meta.xml | icon.png | . | appstore appstore.rpx | meta.xml | icon.png | . | . | . | . | . If you have a hbas.elf file in the sd:/wiiu/apps/appstore, delete it. . . Test . Now it’s time to see if all your efforts are working. . If your wiiu is on, turn it off. | Eject your SD card, then insert it into your wiiu. | Turn on your console | Launch the console’s web browser. | Go to u.wiidb.de. | Click on HAXX | One page should load. If you look at the bottom left, you should see your mii swing. If it stops moving, an error has occurred. You should then turn the console off and back on again. If your mii stops and a wiiu logo launches in the lower right corner, you’ve done it. | . Error handling . If you have a black screen with text written on it, this section is for you. Otherwise you can go to the next step. . If you see one of these screens it means that the payload.elf has been loaded. . FSGetMountSource Failed: This means that your SD card, is not in fat32, it has to be reformatted. | FSOpenFile Failed: This means he didn’t find the payload.elf file, just check if it’s in the right place or if it exists. | The browser crashed: As mentioned above, this happens, just delete the browser options and restart the exploit. | . . Finish . Here you have installed the strict minimum for wiiu hacks. You can now follow the other tutorials. .",
-    "url": "http://localhost:4000/docs/homebrew",
+    "url": "https://vincent-coding.github.io/WiiU-Guide//https://vincent-coding.github.io/WiiU-Guide/docs/homebrew",
     "relUrl": "/docs/homebrew"
   }
   ,"6": {
     "title": "Introduction",
     "content": "Introduction . On the site there are different categories, full of tutorials. The two best known categories are Homebrew and Extras. . But they also have tutorials for hacking for example his vWii. . . Prerequisite . First of all, you’ll need an SD card. To choose its capacity, here is a small guide. . Once you have chosen your sd card, you must format it in fat32. Under Windows, if your sd card is larger than 32 gb, you need to use software to format it, such as fat32 format. . Now that your SD card is ready for the homebrew apps, you can go on with the tutorials. . Logical continuation of the tutorial here :) .",
-    "url": "http://localhost:4000/docs/introduction/",
+    "url": "https://vincent-coding.github.io/WiiU-Guide//https://vincent-coding.github.io/WiiU-Guide/docs/introduction/",
     "relUrl": "/docs/introduction/"
   }
   
