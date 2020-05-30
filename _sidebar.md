@@ -8,6 +8,10 @@
     - [CBHC](cbhc.md)
     - [DS VC Choice](ds-vc-choice.md)
 
+- **Exploit**
+
+  - [Indexiine](indexiine.md)
+
 - **Extras**
 
   - [Choose SD Card](choose-sd-card.md)
