@@ -1,13 +1,18 @@
-- Required
+- **Required**
 
   - [Introduction](introduction.md)
   - [Choose CFW](choose-cfw.md)
+  - **CFW**
+    - [Mocha](mocha.md)
+    - [Haxchi](haxchi.md)
+    - [CBHC](cbhc.md)
+    - [DS VC Choice](ds-vc-choice.md)
 
-- Extras
+- **Extras**
 
   - [Choose SD Card](choose-sd-card.md)
 
-- Others
+- **Others**
 
   - [Homepage](index.md)
   - [Changelogs](changelogs.md)
