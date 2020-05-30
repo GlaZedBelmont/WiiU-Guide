@@ -22,7 +22,7 @@ Here are the 3 best known CFWs:
 |High risk of brick| ❌ | ❌ | ✅ |
 |Possibility to launch it without internet connection| ✅ <br>*(It depends on the exploit)*| ✅ | ✅ |
 |Approximate launch time| 1 minute | 30 seconds | 5 seconds |
-|Entry Points| Web browser.<br>*Even with indexine.*|Console home menu|At console startup|
+|Entry Points| Web browser.<br>*Even with indexiine.*|Console home menu|At console startup|
 
 ## Mocha CFW
 
