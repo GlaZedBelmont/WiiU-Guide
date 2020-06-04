@@ -1,5 +1,8 @@
 # Changelogs
 
+### June 4, 2020
+- Finish the `Indexiine` page
+
 ### June 3, 2020
 - Added `Indexiine` page
 
