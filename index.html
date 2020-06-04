@@ -7,9 +7,15 @@
     <meta charset="UTF-8">
     <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/style.min.css" title="docsify-darklight-theme"type="text/css" />
     <link rel="icon" href="assets/favicon.ico" />
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+    </style>
   </head>
   <body>
-    <div id="app">Loading...</div>
+    <div id="app">
+      <img src="./assets/loader.gif" width="100" height="100">
+      <h2 style="font-family: 'Roboto', sans-serif;">Loading</h2>
+    </div>
     <script>
       window.$docsify = {
         name        :"WiiU Guide",
@@ -28,7 +34,8 @@
           '/cbhc'          : '/docs/cfw/cbhc.md',
           '/haxchi'        : '/docs/cfw/haxchi.md',
           '/mocha'         : '/docs/cfw/mocha.md',
-          '/indexiine'     : '/docs/exploit/indexiine.md'
+          '/indexiine'     : '/docs/exploit/indexiine.md',
+          '/online-exploit': '/docs/exploit/online-exploit.md'
         },
         subMaxLevel: 4,
         'flexible-alerts': {
