@@ -168,6 +168,9 @@ MochaCFW SD allows a certain application to access the SD card. This is useful f
 They allow to launch `MochaCFW` directly, instead of `Homebrew Launcher`.<br>
 This means that the `Homebrew Launcher` is inaccessible through the web browser. Therefore, you need to have the `Homebrew Launcher Channel` installed.
 
+You can download it [here](https://github.com/vincent-coding/Mocha-Payload/releases/download/1.0/payload.elf).<br>
+The source code is available [here](https://github.com/vincent-coding/Mocha-Payload/).
+
 > [!NOTE]
 > If you decide to run MochaCFW twice, you have a chance to crash your console. Otherwise it will redirect you to the Mii Editor.
 
